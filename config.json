@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "serverURL": "http://111.230.188.125:1337/parse",
+      "appId": "timer",
+      "masterKey": "timermsghli*",
+      "appName": "Timer"
+    }
+  ],
+  "users": [
+    {
+      "user":"foo",
+      "pass":"bar"
+    }
+  ]
+}
