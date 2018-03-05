@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "http://localhost:1337/parse",
+      "serverURL": "http://172.16.255.13:1337/parse",
       "appId": "timer",
       "masterKey": "timermsghli*",
       "appName": "Timer"
